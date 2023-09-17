@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Avanthika
-A passionate CSE student from India
+#### A passionate CSE student from India
 
 
 <!--
